@@ -1,0 +1,19 @@
+
+  
+  .item {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .image {
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+  }
+  
+  .details {
+    flex: 1;
+  }
+  
